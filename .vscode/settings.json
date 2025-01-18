@@ -1,0 +1,9 @@
+{
+  "files.autoSave": "onFocusChange",
+  "editor.formatOnSave": true,
+  "files.autoSaveDelay": 10000,
+  "editor.defaultFormatter": "rifi2k.format-html-in-php",
+  "notebook.defaultFormatter": "rifi2k.format-html-in-php",
+  "editor.formatOnPaste": true,
+  "editor.formatOnType": true
+}
